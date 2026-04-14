@@ -30,14 +30,7 @@ After segmenting the behaviors and satisfaction rates across geographies and dem
 3. **Family Data:** Financial correlation between household income and pet expenses mapped via Scatter Charts.
 4. **Drillthrough (Hidden Feature):** Right-click on any specific family name in the data table and select 'Drill through' to jump into their micro-profile to read direct customer reviews, purchase platforms, and individual telemetry data.
 
-## 📸 Dashboard Screenshots
-> 💡 **Instructor/Viewer Note:** Add your dashboard screenshots below to showcase the UI!
 
-### 1. Cats vs. Dogs Analysis
-*(Add image here: `![Cats vs Dogs](link)`)*
-
-### 2. General Pet Data
-*(Add image here: `![Pet Data](link)`)*
 
 ### 3. Family Profile (Drillthrough POV)
 *(Add image here: `![Drillthrough](link)`)*
