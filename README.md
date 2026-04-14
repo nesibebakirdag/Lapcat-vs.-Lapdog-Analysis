@@ -31,9 +31,3 @@ After segmenting the behaviors and satisfaction rates across geographies and dem
 4. **Drillthrough (Hidden Feature):** Right-click on any specific family name in the data table and select 'Drill through' to jump into their micro-profile to read direct customer reviews, purchase platforms, and individual telemetry data.
 
 
-
-### 3. Family Profile (Drillthrough POV)
-*(Add image here: `![Drillthrough](link)`)*
-
----
-*Prepared by a passionate Data Analyst turning raw spreadsheets into strategic business decisions.*
